@@ -1,0 +1,7 @@
+{
+"flag_dir":"/ctfs/www/web4/config.php",
+"flag_pre":"<?php $FLAG = \"FLAG_COOKIES_ARE_GOOD_",
+"flag_post":"\"; ?>",
+"execs":[
+]
+}

@@ -1,0 +1,7 @@
+{
+"flag_dir":"/ctfs/www/web3/config.php",
+"flag_pre":"<?php $FLAG = \"FLAG_JS_CHECK_BEST_CHECK_",
+"flag_post":"\"; ?>",
+"execs":[
+]
+}

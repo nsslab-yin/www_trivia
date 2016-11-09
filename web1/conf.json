@@ -1,0 +1,7 @@
+{
+"flag_dir":"/ctfs/www/web1/config.php",
+"flag_pre":"<?php $FLAG = \"FLAG_BAD_PASS_QWERTY_",
+"flag_post":"\"; ?>",
+"execs":[
+]
+}
